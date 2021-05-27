@@ -1,0 +1,39 @@
+.banner{
+  width: 100%;
+}
+
+.a {
+  text-align: center;
+}
+
+.b {
+  text-align: center;
+}
+
+.card {
+  text-align: center;
+  padding: 6px;
+  margin-top: 8px;
+  -webkit-moz-box-shadow: 2px 2px 2px 2px #4F6E61;
+box-shadow: 2px 2px 2px 2px #4F6E61;
+}
+.card:hover{
+  -webkit-moz-box-shadow: 6px 6px 6px 6px #4F6E61;
+box-shadow: 6px 6px 6px 6px #4F6E61;
+}
+
+.pw {
+  margin-top: 10px;
+  margin-bottom: 12px;
+}
+.foot{
+  background:#484e54;
+  color:#ffffff;
+  padding:10px;
+  text-align:center;
+  margin-bottom:0;
+}
+.contact{
+  text-align: center;
+  margin-top: 20px;
+}
